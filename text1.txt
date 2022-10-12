@@ -23,4 +23,4 @@ int main(void)
     return 0;
 }
 //First modification on main branch
-//My first error
+//ERROR RESOLVED
